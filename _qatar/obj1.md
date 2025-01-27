@@ -1,6 +1,6 @@
 ---
 pid: obj1
-artist: Al-Hajj Hafiz Muhammad Nuri
+artist: ÑAÑA GOMEZ
 location: Turkey
 label: Mecano y Magneto es lo Mismo
 _date: '1801'
