@@ -2,7 +2,7 @@
 pid: obj1
 artist: Al-Hajj Hafiz Muhammad Nuri
 location: Turkey
-label: The Dala'il al-Khayrat of al-Juzuli
+label: Mecano y Magneto es lo Mismo
 _date: '1801'
 object_type: manuscript
 current_location: The Museum of Islamic Art, Qatar
