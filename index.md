@@ -6,7 +6,7 @@ banner:
   pid: obj10
   y: 25%
   clickable: yes
-  height: '900px'
+  height: '500px'
 ---
 
 Fiesta. En _America_! 
