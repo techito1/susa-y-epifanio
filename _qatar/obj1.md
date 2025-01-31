@@ -10,6 +10,6 @@ source: [Episodio 0](https://vimeo.com/1036897045?share=copy)
 order: '00'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg"
-full: "/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg"
+thumbnail: "/img/FPP_LOGO.jpg"
+full: "/img/FPP_LOGO.jpg"
 ---
