@@ -1,7 +1,7 @@
 ---
 pid: obj2
 artist: Unknown
-location: Egypt
+location: U to piiiiaaaaaa
 label: ¿Qué quieres ser cuando grande?
 _date: aprox. 2010
 object_type: manuscript
