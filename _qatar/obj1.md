@@ -1,16 +1,15 @@
 ---
 pid: obj1
-artist: ÑAÑA GOMEZ
-location: Turkey
-label: Mecano y Magneto es lo Mismo
-_date: 'ayer'
-object_type: manuscript
-current_location: The Museum of Islamic Art, Qatar
-source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Turkey,_1801_-_The_Dala%27il_al-Khayrat_of_al-Juzuli_-_Google_Art_Project.jpg
+artist: Arnaldo Rodríguez Bagué
+location: Antiguo Edificio de Mujer y Género
+label: Episodio 0
+_date: Diciembre 2024
+object_type: Práctica Práctica Práctica
+current_location: Foro Permanente de Performance
+source: [Episodio 0](https://vimeo.com/1036897045?share=copy)
 order: '00'
 layout: qatar_item
 collection: qatar
 thumbnail: "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg"
-manifest: "/img/derivatives/iiif/obj1/manifest.json"
 ---
