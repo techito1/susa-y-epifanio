@@ -3,7 +3,7 @@ pid: obj1
 artist: ÑAÑA GOMEZ
 location: Turkey
 label: Mecano y Magneto es lo Mismo
-_date: '1801'
+_date: 'ayer'
 object_type: manuscript
 current_location: The Museum of Islamic Art, Qatar
 source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Turkey,_1801_-_The_Dala%27il_al-Khayrat_of_al-Juzuli_-_Google_Art_Project.jpg
